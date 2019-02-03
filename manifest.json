@@ -12,7 +12,7 @@
     "48": "icons/close-16.svg"
   },
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["focus-on-close-background.js"]
   },
   "permissions": [
     "tabs"
